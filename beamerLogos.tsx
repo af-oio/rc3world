@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="beamerLogos" tilewidth="32" tileheight="32" tilecount="10000" columns="100">
- <tileoffset x="10" y="15"/>
+ <tileoffset x="10" y="14"/>
  <image source="beamerLogos.png" width="3200" height="3200"/>
  <tile id="0">
   <animation>
