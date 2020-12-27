@@ -47,7 +47,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"oio-treppe"
+                 "value":"shared oio-treppe"
                 }],
          "type":"tilelayer",
          "visible":true,
