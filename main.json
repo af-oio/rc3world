@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/labyrinth\/main.json"
+                 "value":"labyrinth\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
