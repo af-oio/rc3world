@@ -1,12 +1,4 @@
-{ "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
- "height":3,
+{ "height":3,
  "infinite":false,
  "layers":[
         {
@@ -112,6 +104,24 @@
          "y":0
         }, 
         {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 143, 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 143, 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":3,
+         "id":11,
+         "name":"exit",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/main.json#start_dome"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 143, 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":3,
          "id":3,
@@ -123,6 +133,18 @@
                  "type":"string",
                  "value":" {<hackers-against-climate-change>\/main.json}"
                 }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[149, 0, 0, 149, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 149, 0, 0, 149, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":3,
+         "id":8,
+         "name":"block",
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":20,
@@ -158,18 +180,6 @@
          "height":3,
          "id":5,
          "name":"pep",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":20,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[149, 0, 0, 149, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 149, 0, 0, 149, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":3,
-         "id":8,
-         "name":"block",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -214,24 +224,6 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 143, 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 143, 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":3,
-         "id":11,
-         "name":"exit",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"..\/main.json#start_dome"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":20,
-         "x":0,
-         "y":0
-        }, 
-        {
          "draworder":"topdown",
          "id":9,
          "name":"floorLayer",
@@ -246,7 +238,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.2.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -341,17 +333,17 @@
          "columns":2,
          "firstgid":170,
          "image":"logo_pep.png",
-         "imageheight":32,
+         "imageheight":29,
          "imagewidth":64,
          "margin":0,
          "name":"logo_pep",
          "spacing":0,
-         "tilecount":2,
+         "tilecount":0,
          "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.2,
  "width":20
 }
