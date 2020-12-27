@@ -343,7 +343,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/software.json#start_oio}"
+                 "value":"{<lobby>\/software.json#start_af-oio}"
                 }],
          "type":"tilelayer",
          "visible":true,
