@@ -29,7 +29,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"treppe"
+                 "value":"oio-treppe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -65,7 +65,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"audience.oio.social"
+                 "value":"audience.rs3.oio.social"
                 }],
          "type":"tilelayer",
          "visible":true,
