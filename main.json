@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/berlin.fiff.de\/rc3_cinema.html"
                 }],
          "type":"tilelayer",
          "visible":true,
