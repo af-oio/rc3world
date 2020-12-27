@@ -101,7 +101,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/workshoparea\/main.json"
+                 "value":"workshop.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -131,7 +131,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/remotebeuhnen\/main.json"
+                 "value":"remotebuehnen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
