@@ -113,8 +113,20 @@
          "width":10,
          "x":0,
          "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 127, 127, 0, 0],
+         "height":5,
+         "id":11,
+         "name":"exit_sichtbar",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":10,
+ "nextlayerid":12,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -168,6 +180,19 @@
                          "value":true
                         }]
                 }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":127,
+         "image":"..\/exit.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"exit",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
