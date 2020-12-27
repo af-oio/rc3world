@@ -167,7 +167,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"..\/main.json#start_halle"
                 }],
          "type":"tilelayer",
          "visible":true,
