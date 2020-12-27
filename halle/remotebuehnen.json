@@ -53,7 +53,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/r3s"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -71,7 +71,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/hacc"
                 }],
          "type":"tilelayer",
          "visible":true,
