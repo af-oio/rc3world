@@ -393,6 +393,12 @@
          "id":33,
          "name":"start_halle",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":77,
@@ -405,6 +411,12 @@
          "id":34,
          "name":"start_fiff",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":77,
