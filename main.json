@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/berlin.fiff.de\/rc3_cinema.html"
+                 "value":"https:\/\/berlin.fiff.de\/video\/orga_presentation.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
