@@ -217,7 +217,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared_oio_bonfire"
+                 "value":"shared oio_bonfire"
                 }],
          "type":"tilelayer",
          "visible":true,
