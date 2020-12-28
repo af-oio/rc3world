@@ -341,7 +341,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"{<lobby>\/software.json#start_af-oio}"
                 }],
