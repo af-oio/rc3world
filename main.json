@@ -215,7 +215,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsoRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared_oio_bonfire"
                 }],
