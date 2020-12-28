@@ -503,7 +503,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"startayer",
+                 "name":"startLayer",
                  "type":"bool",
                  "value":true
                 }],
