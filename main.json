@@ -1,12 +1,4 @@
-{ "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
- "height":66,
+{ "height":66,
  "infinite":false,
  "layers":[
         {
@@ -343,7 +335,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/software.json#start_af-oio}"
+                 "value":"{<lobby>\/maps\/software.json#start_af-oio}\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -720,7 +712,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.2.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -16249,6 +16241,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.2,
  "width":77
 }
