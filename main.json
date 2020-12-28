@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/berlin.fiff.de\/video\/fsfe.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
