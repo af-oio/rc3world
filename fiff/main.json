@@ -30,7 +30,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cloud.fiff.de\/s\/fxTDgxw247G9ft8"
+                 "value":"https:\/\/berlin.fiff.de\/video\/cyberpeace.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cloud.fiff.de\/s\/rM8tf8wgwsPZmnt"
+                 "value":"https:\/\/berlin.fiff.de\/video\/fiff.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
