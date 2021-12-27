@@ -16769,6 +16769,12 @@
          "imagewidth":99,
          "margin":0,
          "name":"c3slogo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"c3s"
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
