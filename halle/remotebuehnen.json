@@ -1,4 +1,5 @@
-{ "height":5,
+{ "compressionlevel":-1,
+ "height":5,
  "infinite":false,
  "layers":[
         {
@@ -71,7 +72,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/hacc"
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/aboutfuture"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -130,7 +131,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.2.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -141,6 +142,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"Stages2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"a:f"
+                }],
          "spacing":0,
          "tilecount":50,
          "tileheight":32,
@@ -154,6 +161,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"vordergrund",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"a:f"
+                }],
          "spacing":0,
          "tilecount":50,
          "tileheight":32,
@@ -167,6 +180,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"rc3_2d_functions",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (Mullana?)"
+                }],
          "spacing":0,
          "tilecount":26,
          "tileheight":32,
@@ -190,6 +209,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"exit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (Mullana?)"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -197,6 +222,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.2,
+ "version":"1.6",
  "width":10
 }
