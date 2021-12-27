@@ -1,4 +1,5 @@
-{ "height":3,
+{ "compressionlevel":-1,
+ "height":3,
  "infinite":false,
  "layers":[
         {
@@ -111,7 +112,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/main.json#start_dome"
                 }],
@@ -220,7 +221,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.2.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -231,6 +232,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"innererDome",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"a:f"
+                }],
          "spacing":0,
          "tilecount":60,
          "tileheight":32,
@@ -244,6 +251,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"logo_hacc_schwarz",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"hacc"
+                }],
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
@@ -257,6 +270,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"rc3_2d_functions",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (Mullana?)"
+                }],
          "spacing":0,
          "tilecount":26,
          "tileheight":32,
@@ -280,6 +299,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"GFF",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"GFF"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -293,6 +318,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"DigitaleGesellschaft",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Digitale Gesellschaft"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -306,6 +337,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"edri",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"edri"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -319,6 +356,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"logo_pep",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"PEP"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -326,6 +369,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.2,
+ "version":"1.6",
  "width":20
 }
