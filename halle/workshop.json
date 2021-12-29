@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"sub.json"
                 }],
          "type":"tilelayer",
          "visible":true,
