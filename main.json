@@ -343,7 +343,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"labyrinth\/main.json"
+                 "value":"labyrinth\/sub.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,7 +361,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"dome\/main.json"
+                 "value":"dome\/sub.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -415,7 +415,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"fiff\/main.json"
+                 "value":"fiff\/sub.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -456,7 +456,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"fridaysforfuture\/main.json"
+                 "value":"fridaysforfuture\/sub.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -551,7 +551,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"seawatch\/main.json"
+                 "value":"seawatch\/sub.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -641,7 +641,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"halle\/main.json"
+                 "value":"halle\/sub.json"
                 }],
          "type":"tilelayer",
          "visible":true,
