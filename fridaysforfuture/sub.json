@@ -703,12 +703,6 @@
                 }, 
                 {
                  "id":1,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":false
-                        }],
                  "type":"START"
                 }, 
                 {
