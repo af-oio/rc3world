@@ -707,7 +707,7 @@
                         {
                          "name":"startLayer",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }],
                  "type":"START"
                 }, 
